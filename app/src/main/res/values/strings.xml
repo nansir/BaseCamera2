@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera2Basic</string>
+
+    <string name="activity_display_return">Return</string>
+</resources>
